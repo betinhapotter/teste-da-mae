@@ -1,0 +1,5 @@
+Rob Fitzpatrick escreveu o guia mais honesto que existe sobre conversar com clientes — e o título é uma piada séria. O "Teste da Mãe" é um conjunto de regras para fazer perguntas tão boas que nem a sua própria mãe conseguiria mentir para você. Porque a sua mãe mente por amor: ela vai dizer que a sua ideia é linda de qualquer jeito. E o cliente mente por educação — exatamente pelo mesmo motivo.
+
+A virada de chave do livro é esta: o problema nunca é o cliente que mente. O problema é a sua pergunta. Você pergunta "o que você acha da minha ideia?" e recebe um elogio inútil. Pergunta "você compraria isso?" e recebe um "com certeza" que nunca vira dinheiro. A culpa não é de quem responde — é de quem conduz. Conversas com clientes são ruins por padrão. Cabe a você consertá-las.
+
+O antídoto cabe em três regras: fale da vida deles, não da sua ideia; pergunte sobre fatos específicos do passado, não sobre opiniões ou o futuro; fale menos e escute mais. É simples de entender e difícil de fazer — e é a diferença entre construir por um ano algo que ninguém quer e descobrir isso numa conversa de dez minutos.
